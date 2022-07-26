@@ -11,8 +11,9 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 1. 2-D psa and difference array
 2. 1-D fenwick tree (Binary-indexed tree)
 3. 2-D fenwick tree
-4. sparse table
-5. segment tree
+4. monotonic stack
+6. sparse table
+7. segment tree
 
 ### Dynamic Programming 
 
