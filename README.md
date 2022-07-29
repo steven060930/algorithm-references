@@ -1,10 +1,19 @@
-# algorithm-references
+# algorithm-references content
 
 competitive programming common useful algorithms including the following topics:
 
 ### "Preface"
 my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 
+
+
+### Basic Mathmetical Algorithms
+
+1. Sieve algorithm checking prime numbers
+    -> Prime Number checker stress benchmark
+2. Quick Pow, and quick multiply
+3. Matrix multiply
+4. * java big number module test *
 
 ### Data Structures
 
@@ -18,8 +27,11 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 ### Dynamic Programming 
 
 1. Knapsack algorithm
-2. Interval dp
-3. Bitmask dp
+    -> binary grouping theory
+2. Longest Common Subsequence
+3. Longest Increasing Subsequence
+4. Interval dp
+5. Bitmask dp
 
 ### Graph Theory
 
@@ -37,3 +49,5 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 
 1. Rolling hash
 2. Sliding Window
+3. Manacher's Algorithm
+4. KMP'd algorithm
