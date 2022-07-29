@@ -50,4 +50,9 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 1. Rolling hash
 2. Sliding Window
 3. Manacher's Algorithm
-4. KMP'd algorithm
+4. KMP's algorithm
+
+### Sorting Algorithms (mainly the demonstration of use)
+
+### Searching Algorithm
+- Binary search
