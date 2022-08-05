@@ -55,4 +55,5 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 ### Sorting Algorithms (mainly the demonstration of use)
 
 ### Searching Algorithm
-- Binary search
+1. Binary search
+2. Two-pointers search
