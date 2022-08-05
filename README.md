@@ -1,6 +1,6 @@
 # algorithm-references content
 
-competitive programming common useful algorithms including the following topics:
+competitive programming commonly and extensively used algorithms including the following topics:
 
 ### "Preface"
 my c++ template for competitive programming: https://pastebin.com/Xf540ijS
