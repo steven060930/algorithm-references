@@ -40,7 +40,7 @@ my c++ template for competitive programming: https://pastebin.com/Xf540ijS
 3. DSU (disjoint set union)
 4. MST Kruskal's algorithm
 5. MST Prim's algorithm
-6. SSSP
+6. SSSP (single-source-shortest-path)
 7. Bellman-Ford's algorithm
 8. Floyd-Warshall's algorithm
 9. Dijkstra's algorithm
